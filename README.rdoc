@@ -6,6 +6,6 @@ Things that have been implemented so far:
 
 * Authentication - Devise gem have been used to implement authentication
 
-* Email Setup - Mailcatcher gem is used to implement email of development environment.
+* Email Setup - Mailcatcher gem is used to setup email services on development environment.
 
 
