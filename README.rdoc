@@ -1,28 +1,11 @@
-== README
+== Shivalogy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Shivalogy is an ecommerce website currenlty in the development stage. Shivalogy has been developed using RubyonRails. The aim for implementing this is too understand and implement the best pratices of RubyonRails.
 
-Things you may want to cover:
+Things that have been implemented so far:
 
-* Ruby version
+* Authentication - Devise gem have been used to implement authentication
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Email Setup - Mailcatcher gem is used to implement email of development environment.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
